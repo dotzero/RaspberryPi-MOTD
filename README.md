@@ -9,7 +9,7 @@ More helpful MOTD than before.
 Download the latest RaspberryPi-MOTD setup script with
 
     cd ~
-    git clone git@github.com:dotzero/RaspberryPi-MOTD.git
+    git clone https://github.com/dotzero/RaspberryPi-MOTD.git
     
 The script is executed with
 
